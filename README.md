@@ -14,11 +14,11 @@ By looking at the ChEMBL schema, discern which information is relevant to your r
 
 **Step 1:**	Download the `chembl_33_mysql.tar.gz` (Or newest release) from [ChEMBL Downloads Page](https://chembl.gitbook.io/chembl-interface-documentation/downloads)
 
-[!NOTE]
-This file is 1.6G and may take a while to install depending on your device.
+> [!NOTE]
+> This file is 1.6G and may take a while to install depending on your device.
 
-[!TIP]
-For smaller queries, you may want to use the ChEMBL API instead of downloading the entire database.
+> [!TIP]
+> For smaller queries, you may want to use the ChEMBL API instead of downloading the entire database.
 
 **Step 2:** 
 
